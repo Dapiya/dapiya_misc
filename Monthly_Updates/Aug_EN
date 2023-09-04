@@ -1,0 +1,52 @@
+@everyone
+**Dapiya August News & Updates**
+
+**Massive shoutout to all of our supporters:**
+
+Afdian:
+Ampil
+爱发电用户_CNsK
+爱发电用户_62aae
+爱发电用户_6Ntk
+爱发电用户_xJCm
+Zavijava
+ZJWL
+broken_melon
+Surigae165kts888hpa
+爱发电用户_5682d
+爱发电用户_361f6
+爱发电用户_350f0
+-TD-
+
+Patreon:
+None
+
+Ko-fi:
+None
+
+
+**Updates**
+
+**1. Pangu operational site: https://pangu.dapiya.top/ **
+Currently we have GFS, GDPS(CMC), and ICON initializations, they can produce quite different results due to the small differences in initialization. This site runs on a different dedicated server due to how much resource it uses, and we are still performing optimizations & upgrades, so a lot of things on there right now is subject to change.
+
+**2. Improved Performance**
+In early August, we moved to a different cloud service provider for faster connection between our host and CDN. Both our internal testing and our users reported a significant improvement.
+
+**3. Changes made to Archive site: https://archive.dapiya.top**
+Due to performance limitations, we ditched h5ai and moved to the same file browser as the active TC imagery site. 
+
+**Future plans**
+
+**1. GraphCast**
+GraphCast is an AI NWP model developed by DeepMind, unlike Pangu, it actually has precipitation output. We've seen some truly spectacular results from it, but we weren't able to find operational deployments of the model. So we are doing it ourselves, stay tuned in #dapiya-next
+
+**2. Cloudflare Pro**
+On Sep 1st, we purchased a month of Cloudflare Pro subscription. We were able to utilize many features to hopefully improve webpage loading time further. We are still testing how well it works, and evaluating whether if it is an effective measure or not.
+
+**3. Commitment to Publicity**
+Here at Dapiya, we believe that having good publicity is an important part of bringing us closer to our audiences. So starting this month, we will be releasing the following information:
+- Donations received
+- Operating Cost
+- Expenses
+- Website statistics
